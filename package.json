@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/unbulanov/js-testing-asserts/issues"
   },
-  "homepage": "https://github.com/unbulanov/js-testing-asserts#readme"
+  "homepage": "https://github.com/unbulanov/js-testing-asserts#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
